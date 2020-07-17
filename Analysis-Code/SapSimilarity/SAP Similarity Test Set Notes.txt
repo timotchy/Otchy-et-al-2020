@@ -1,0 +1,16 @@
+Songs used for constructing Ds and Dl distributions.
+
+Original motif data saved as sapTestSet.mat
+Calibration CDFs saved as sapCDFs.mat
+
+Dataset Name
+Sil167_100219
+Grn010_140323
+Grn011_140304
+Grn089_140629
+Grn091_140703
+Pur935_131110
+Pur690_120512
+Pur755_120730
+Sil450_140108
+Grn002_140124
